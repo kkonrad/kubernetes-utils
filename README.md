@@ -37,7 +37,17 @@ Tip: I was using it mostly in a `while` loop in bash so that it quickly recovers
 
 #### TODO: Krew
 
-[Krew](https://krew.sigs.k8s.io/) is a plugin manager for kubectl
+[Krew](https://krew.sigs.k8s.io/) is a plugin manager for kubectl.
+
+Some plugins to consider:
+
+* ctx
+* ns
+
+Now I'm testing:
+* access-matrix
+* node-shell
+* sniff
 
 
 ### Console
